@@ -1,6 +1,6 @@
 # Quote Clock
 
-**Quote Clock** is a Chrome extension designed to inspire and uplift your mindset every time you open a new tab. Stay motivated with curated quotes and keep track of time at a glance.
+**Quote Clock** is a [Chrome extension](https://chromewebstore.google.com/detail/quote-clock/dbladalnnhlabhpnnjchhnaemidbkieo) designed to inspire and uplift your mindset every time you open a new tab. Stay motivated with curated quotes and keep track of time at a glance.
 
 <img src="https://lh3.googleusercontent.com/Bllm2QOSgy4OTzoQMTh0VdwITuPZnIRWIVSFoCxsHXZbLlvlrnGuy-aOeq_OdkcFbCBmYOBrd1Npv_8zD9jQmnzw=s1280-w1280-h800" alt="Quote Clock Banner" style="width:300px; height:200px; border-radius:10px;">
 
